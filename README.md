@@ -19,6 +19,19 @@ recovered or not, the description of each variable are as follows,
 13. Time_before_symptoms_appear: 
 14. Result: death (1) or recovered (0)
 
+It is required to design different classifiers to the predict the outcome (death/recovered) when a new 
+person is admitted to the hospital. The data is already cleaned and preprocessed.
+You will have to divide the data into three partitions: training, validation, and testing. You need to 
+design the following classifiers:
+1. K-Nearest Neighbors
+2. Logistic Regression
+3. Naïve Bayes (due end of week 11)
+4. Decision Trees
+5. Support Vector Machines (due end of week 14)
+For each classifier, try to find the optimal hyperparameters.
+You also need to compare the performance of all classifiers using different metrics such as the 
+precision, recall, F1-score, and ROC/AUC curves
+
 
 ## Team
 1. Ahmed Ashraf Marzouk (Me)
