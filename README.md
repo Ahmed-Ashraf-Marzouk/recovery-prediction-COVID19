@@ -28,6 +28,7 @@ design the following classifiers:
 3. Naïve Bayes (due end of week 11)
 4. Decision Trees
 5. Support Vector Machines (due end of week 14)
+
 For each classifier, try to find the optimal hyperparameters.
 You also need to compare the performance of all classifiers using different metrics such as the 
 precision, recall, F1-score, and ROC/AUC curves
